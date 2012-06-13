@@ -1,0 +1,4 @@
+My short Assembly X86 sample codes
+
+.asm => NASM version (Intel)
+.s   => GAS version  (AT&T)
